@@ -1,2 +1,2 @@
 # LineScore
-A feature extraction tool to detect line/fiber-like structures in an image
+A feature extraction tool to detect line/fiber-like structures in an image.
