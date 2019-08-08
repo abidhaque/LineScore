@@ -7,12 +7,12 @@ In order to quantify the relative abundance of filaments between the controls an
 
 # How to Use
 
-To run the script on <filename>.jpg, follow these steps:
+To run the script on *filename*.jpg, follow these steps:
   
-1. Using ImageJ, FIJI or any other image processing software, create a mask of the area that must be analyzed. The area to be analyzed must be white, whereas everything else must be black. Rename this image <filename>_highcontrast.jpg
+1. Using ImageJ, FIJI or any other image processing software, create a mask of the area that must be analyzed. The area to be analyzed must be white, whereas everything else must be black. Rename this image *filename*_highcontrast.jpg
   
 2. Open terminal and cd to directory :
-   python run_script.py <filename>
+   python run_script.py *filename*
   
  
  
